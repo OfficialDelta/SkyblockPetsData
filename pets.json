@@ -320,30 +320,18 @@
     "Jerry": {
         "upgradeCosts": {
             "UNCOMMON": {
-                "items": [
-                    
-                ],
                 "coins": 10000,
                 "flowers": 1
             },
             "RARE": {
-                "items": [
-                    
-                ],
                 "coins": 20000,
                 "flowers": 1
             },
             "EPIC": {
-                "items": [
-                    
-                ],
                 "coins": 40000,
                 "flowers": 1
             },
             "LEGENDARY": {
-                "items": [
-                    
-                ],
                 "coins": 100000,
                 "flowers": 3
             }
