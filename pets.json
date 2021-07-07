@@ -320,22 +320,30 @@
     "Jerry": {
         "upgradeCosts": {
             "UNCOMMON": {
-                "items": [],
+                "items": [
+                    
+                ],
                 "coins": 10000,
                 "flowers": 1
             },
             "RARE": {
-                "items": [],
+                "items": [
+                    
+                ],
                 "coins": 20000,
                 "flowers": 1
             },
             "EPIC": {
-                "items": [],
+                "items": [
+                    
+                ],
                 "coins": 40000,
                 "flowers": 1
             },
             "LEGENDARY": {
-                "items": [],
+                "items": [
+                    
+                ],
                 "coins": 100000,
                 "flowers": 3
             }
@@ -468,32 +476,6 @@
                 ],
                 "coins": 250000,
                 "flowers": 5
-            }
-        }
-    },
-    "Zombie": {
-        "upgradeCosts": {
-            "UNCOMMON": {
-                "coins": 2000,
-                "flowers": 1
-            },
-            "RARE": {
-                "coins": 5000,
-                "flowers": 2
-            },
-            "EPIC": {
-                "coins": 190000,
-                "flowers": 5
-            },
-            "LEGENDARY": {
-                "items": [
-                    {
-                        "name": "Zombie's Heart",
-                        "amount": 8
-                    }
-                ],
-                "coins": 250000,
-                "flowers": 10
             }
         }
     },
@@ -777,7 +759,7 @@
             }
         }
     },
-    "Blaze Pet": {
+    "Blaze": {
         "upgradeCosts": {
             "LEGENDARY": {
                 "items": [
