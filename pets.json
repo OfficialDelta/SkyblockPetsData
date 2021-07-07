@@ -1,0 +1,72 @@
+{
+	"Bee": {
+		"upgradeCosts": {
+			"UNCOMMON": {
+				"items": [
+					{
+						"name": "COAL",
+						"amount": 1152
+					}
+				],
+				"coins": 5000,
+				"flowers": 1
+			},
+			"RARE": {
+				"items": [
+					{
+						"name": "GOLD_INGOT",
+						"amount": 1152
+					}
+				],
+				"coins": 40000,
+				"flowers": 1
+			},
+			"EPIC": {
+				"items": [
+					{
+						"name": "ENCHANTED_COAL_BLOCK",
+						"amount": 9
+					}
+				],
+				"coins": 150000,
+				"flowers": 1
+			},
+			"LEGENDARY": {
+				"items": [
+					{
+						"name": "ENCHANTED_GOLD_BLOCK",
+						"amount": 9
+					}
+				],
+				"coins": 450000,
+				"flowers": 3
+			}
+		}
+	},
+	"Chicken": {
+		"upgradeCosts": {
+			"UNCOMMON": {
+				"coins": 2000,
+				"flowers": 1
+			},
+			"RARE": {
+				"coins": 5000,
+				"flowers": 1
+			},
+			"EPIC": {
+				"coins": 190000,
+				"flowers": 1
+			},
+			"LEGENDARY": {
+				"items": [
+					{
+						"name": "ENCHANTED_RAW_CHICKEN",
+						"amount": 8
+					}
+				],
+				"coins": 250000,
+				"flowers": 1
+			}
+		}
+	}
+}
