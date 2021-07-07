@@ -1,72 +1,944 @@
 {
-	"Bee": {
-		"upgradeCosts": {
-			"UNCOMMON": {
-				"items": [
-					{
-						"name": "COAL",
-						"amount": 1152
-					}
-				],
-				"coins": 5000,
-				"flowers": 1
-			},
-			"RARE": {
-				"items": [
-					{
-						"name": "GOLD_INGOT",
-						"amount": 1152
-					}
-				],
-				"coins": 40000,
-				"flowers": 1
-			},
-			"EPIC": {
-				"items": [
-					{
-						"name": "ENCHANTED_COAL_BLOCK",
-						"amount": 9
-					}
-				],
-				"coins": 150000,
-				"flowers": 1
-			},
-			"LEGENDARY": {
-				"items": [
-					{
-						"name": "ENCHANTED_GOLD_BLOCK",
-						"amount": 9
-					}
-				],
-				"coins": 450000,
-				"flowers": 3
-			}
-		}
-	},
-	"Chicken": {
-		"upgradeCosts": {
-			"UNCOMMON": {
-				"coins": 2000,
-				"flowers": 1
-			},
-			"RARE": {
-				"coins": 5000,
-				"flowers": 1
-			},
-			"EPIC": {
-				"coins": 190000,
-				"flowers": 1
-			},
-			"LEGENDARY": {
-				"items": [
-					{
-						"name": "ENCHANTED_RAW_CHICKEN",
-						"amount": 8
-					}
-				],
-				"coins": 250000,
-				"flowers": 1
-			}
-		}
-	}
+    "Bee": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "items": [
+                    {
+                        "name": "COAL",
+                        "amount": 1152
+                    }
+                ],
+                "coins": 5000,
+                "flowers": 1
+            },
+            "RARE": {
+                "items": [
+                    {
+                        "name": "GOLD_INGOT",
+                        "amount": 1152
+                    }
+                ],
+                "coins": 40000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_COAL_BLOCK",
+                        "amount": 9
+                    }
+                ],
+                "coins": 150000,
+                "flowers": 1
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_GOLD_BLOCK",
+                        "amount": 9
+                    }
+                ],
+                "coins": 450000,
+                "flowers": 3
+            }
+        }
+    },
+    "Chicken": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 2000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 190000,
+                "flowers": 1
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_RAW_CHICKEN",
+                        "amount": 8
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 1
+            }
+        }
+    },
+    "Elephant": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 15000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 75000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 700000,
+                "flowers": 5
+            },
+            "LEGENDARY": {
+                "coins": 14000000,
+                "flowers": 10
+            }
+        }
+    },
+    "Pig": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 2000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 190000,
+                "flowers": 1
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "PORK",
+                        "amount": 512
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 1
+            }
+        }
+    },
+    "Rabbit": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 2000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 190000,
+                "flowers": 1
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "RABBIT",
+                        "amount": 64
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 1
+            }
+        }
+    },
+    "Bat": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 2000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 190000,
+                "flowers": 1
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_RED_MUSHROOM",
+                        "amount": 64
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 3
+            }
+        }
+    },
+    "Endermite": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 1700,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 190000,
+                "flowers": 3
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_ENDSTONE",
+                        "amount": 512
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 7
+            }
+        }
+    },
+    "Rock": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 100000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 1000000,
+                "flowers": 2
+            },
+            "EPIC": {
+                "coins": 10000000,
+                "flowers": 7
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_COBBLESTONE",
+                        "amount": 64
+                    }
+                ],
+                "coins": 50000000,
+                "flowers": 14
+            }
+        }
+    },
+    "Sliverfish": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 2000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 190000,
+                "flowers": 1
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_COBBLESTONE",
+                        "amount": 64
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 3
+            }
+        }
+    },
+    "Mithril Golem": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 10000,
+                "flowers": 2
+            },
+            "EPIC": {
+                "coins": 25000,
+                "flowers": 5
+            },
+            "LEGENDARY": {
+                "coins": 50000,
+                "flowers": 20
+            }
+        }
+    },
+    "Enderman": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 1000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 2
+            },
+            "EPIC": {
+                "coins": 10000,
+                "flowers": 6
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_EYE_OF_ENDER",
+                        "amount": 8
+                    }
+                ],
+                "coins": 40000000,
+                "flowers": 12
+            }
+        }
+    },
+    "Horse": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 2000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 200000,
+                "flowers": 1
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_LEATHER",
+                        "amount": 8
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 1
+            }
+        }
+    },
+    "Jerry": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 10000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 20000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 40000,
+                "flowers": 1
+            },
+            "LEGENDARY": {
+                "coins": 100000,
+                "flowers": 3
+            }
+        }
+    },
+    "Magma Cube": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 2500,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 10000,
+                "flowers": 5
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_MAGMA_CREAM",
+                        "amount": 16
+                    }
+                ],
+                "coins": 500000,
+                "flowers": 10
+            }
+        }
+    },
+    "Skeleton": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 2000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 190000,
+                "flowers": 1
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_BONE",
+                        "amount": 128
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 3
+            }
+        }
+    },
+    "Spider": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 2000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 190000,
+                "flowers": 3
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_STRING",
+                        "amount": 512
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 7
+            }
+        }
+    },
+    "Tiger": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 15000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 75000,
+                "flowers": 2
+            },
+            "EPIC": {
+                "coins": 900000,
+                "flowers": 7
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_RAW_CHICKEN",
+                        "amount": 1024
+                    }
+                ],
+                "coins": 14000000,
+                "flowers": 12
+            }
+        }
+    },
+    "Wolf": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 2000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 190000,
+                "flowers": 2
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_SPRUCE_LOG",
+                        "amount": 512
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 5
+            }
+        }
+    },
+    "Giraffe": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_ACACIA_LOG",
+                        "amount": 1
+                    }
+                ],
+                "coins": 15000,
+                "flowers": 1
+            },
+            "RARE": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_ACACIA_LOG",
+                        "amount": 16
+                    }
+                ],
+                "coins": 75000,
+                "flowers": 2
+            },
+            "EPIC": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_ACACIA_LOG",
+                        "amount": 128
+                    }
+                ],
+                "coins": 900000,
+                "flowers": 7
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_ACACIA_LOG",
+                        "amount": 512
+                    }
+                ],
+                "coins": 8000000,
+                "flowers": 12
+            }
+        }
+    },
+    "Lion": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 15000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 75000,
+                "flowers": 2
+            },
+            "EPIC": {
+                "coins": 900000,
+                "flowers": 7
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_RAW_BEEF",
+                        "amount": 1024
+                    }
+                ],
+                "coins": 14000000,
+                "flowers": 12
+            }
+        }
+    },
+    "Monkey": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 15000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 75000,
+                "flowers": 2
+            },
+            "EPIC": {
+                "coins": 900000,
+                "flowers": 7
+            },
+            "LEGENDARY": {
+                "coins": 17000000,
+                "flowers": 12
+            }
+        }
+    },
+    "Ocelot": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 2000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 190000,
+                "flowers": 2
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_JUNGLE_LOG",
+                        "amount": 512
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 5
+            }
+        }
+    },
+    "Blue Whale": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 15000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 75000,
+                "flowers": 2
+            },
+            "EPIC": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_COOKED_FISH",
+                        "amount": 1
+                    }
+                ],
+                "coins": 900000,
+                "flowers": 7
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_COOKED_FISH",
+                        "amount": 8
+                    }
+                ],
+                "coins": 9000000,
+                "flowers": 12
+            }
+        }
+    },
+    "Dolphin": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 100000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 1000000,
+                "flowers": 2
+            },
+            "EPIC": {
+                "coins": 10000000,
+                "flowers": 7
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_RAW_FISH",
+                        "amount": 16
+                    }
+                ],
+                "coins": 50000000,
+                "flowers": 14
+            }
+        }
+    },
+    "Squid": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 20000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 100000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 500000,
+                "flowers": 2
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_INK_SACK",
+                        "amount": 64
+                    }
+                ],
+                "coins": 3000000,
+                "flowers": 5
+            }
+        }
+    },
+    "Guardian": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 20000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 100000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 500000,
+                "flowers": 2
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_PRISMARINE_SHARD",
+                        "amount": 64
+                    }
+                ],
+                "coins": 3000000,
+                "flowers": 5
+            }
+        }
+    },
+    "Sheep": {
+        "upgradeCosts": {
+            "UNCOMMON": {
+                "coins": 2000,
+                "flowers": 1
+            },
+            "RARE": {
+                "coins": 5000,
+                "flowers": 1
+            },
+            "EPIC": {
+                "coins": 200000,
+                "flowers": 3
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_MUTTON",
+                        "amount": 512
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 7
+            }
+        }
+    },
+    "Turtle": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_RAW_FISH",
+                        "amount": 16
+                    }
+                ],
+                "coins": 15000000,
+                "flowers": 10
+            }
+        }
+    },
+    "Wither Skeleton": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_COAL_BLOCK",
+                        "amount": 8
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 5
+            }
+        }
+    },
+    "Blaze": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_BLAZE_ROD",
+                        "amount": 64
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 12
+            }
+        }
+    },
+    "Ender Dragon": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "SUMMONING_EYE",
+                        "amount": 8
+                    }
+                ],
+                "coins": 400000000,
+                "flowers": 20
+            }
+        }
+    },
+    "Ghoul": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "REVENANT_FLESH",
+                        "amount": 512
+                    }
+                ],
+                "coins": 5000000,
+                "flowers": 10
+            }
+        }
+    },
+    "Golem": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_IRON_BLOCK",
+                        "amount": 8
+                    }
+                ],
+                "coins": 10000000,
+                "flowers": 20
+            }
+        }
+    },
+    "Hound": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "WOLF_TOOTH",
+                        "amount": 512
+                    }
+                ],
+                "coins": 5000000,
+                "flowers": 10
+            }
+        }
+    },
+    "Phoenix": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_BLAZE_POWDER",
+                        "amount": 1024
+                    }
+                ],
+                "coins": 100000000,
+                "flowers": 20
+            }
+        }
+    },
+    "Pigman": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_GRILLED_PORK",
+                        "amount": 8
+                    }
+                ],
+                "coins": 250000,
+                "flowers": 10
+            }
+        }
+    },
+    "Spirit": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_GHAST_TEAR",
+                        "amount": 64
+                    }
+                ],
+                "coins": 5000000,
+                "flowers": 10
+            }
+        }
+    },
+    "Tarantula": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "TARANTULA_WEB",
+                        "amount": 512
+                    }
+                ],
+                "coins": 5000000,
+                "flowers": 10
+            }
+        }
+    },
+    "Baby Yeti": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_RAW_SALMON",
+                        "amount": 16
+                    }
+                ],
+                "coins": 20000000,
+                "flowers": 12
+            }
+        }
+    },
+    "Megalodon": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "coins": 10000000,
+                "flowers": 20
+            }
+        }
+    },
+    "Jellyfish": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_SLIME_BALL",
+                        "amount": 16
+                    }
+                ],
+                "coins": 15000000,
+                "flowers": 10
+            }
+        }
+    },
+    "Parrot": {
+        "upgradeCosts": {
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_FEATHER",
+                        "amount": 16
+                    }
+                ],
+                "coins": 15000000,
+                "flowers": 10
+            }
+        }
+    },
+    "Flying Fish": {
+        "upgradeCosts": {
+            "EPIC": {
+                "coins": 250000,
+                "flowers": 5
+            },
+            "LEGENDARY": {
+                "items": [
+                    {
+                        "name": "ENCHANTED_RAW_FISH",
+                        "amount": 64
+                    }
+                ],
+                "coins": 1000000,
+                "flowers": 10
+            }
+        }
+    }
 }
