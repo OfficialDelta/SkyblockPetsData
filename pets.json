@@ -219,7 +219,7 @@
             }
         }
     },
-    "Sliverfish": {
+    "Silverfish": {
         "upgradeCosts": {
             "UNCOMMON": {
                 "coins": 2000,
