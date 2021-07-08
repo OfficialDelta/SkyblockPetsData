@@ -41,7 +41,8 @@
                 "coins": 450000,
                 "flowers": 3
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/7/78/Bee_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204858"
     },
     "Chicken": {
         "upgradeCosts": {
@@ -67,7 +68,8 @@
                 "coins": 250000,
                 "flowers": 1
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/a/ac/Chicken_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204837"
     },
     "Elephant": {
         "upgradeCosts": {
@@ -87,7 +89,8 @@
                 "coins": 14000000,
                 "flowers": 10
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/a/af/Elephant_Pet.png/revision/latest/scale-to-width-down/160?cb=20200506101231"
     },
     "Pig": {
         "upgradeCosts": {
@@ -113,7 +116,8 @@
                 "coins": 250000,
                 "flowers": 1
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/b/bb/Pig_Pet.png/revision/latest/scale-to-width-down/160?cb=20200506101232"
     },
     "Rabbit": {
         "upgradeCosts": {
@@ -139,7 +143,8 @@
                 "coins": 250000,
                 "flowers": 1
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/a/af/Rabbit_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204842"
     },
     "Bat": {
         "upgradeCosts": {
@@ -165,7 +170,8 @@
                 "coins": 250000,
                 "flowers": 3
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/5/55/Bat_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204835"
     },
     "Endermite": {
         "upgradeCosts": {
@@ -191,7 +197,8 @@
                 "coins": 250000,
                 "flowers": 7
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/9/91/Endermite_Pet.png/revision/latest/scale-to-width-down/160?cb=20200506101229"
     },
     "Rock": {
         "upgradeCosts": {
@@ -217,7 +224,8 @@
                 "coins": 50000000,
                 "flowers": 14
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/d/d8/Rock_Pet.png/revision/latest/scale-to-width-down/160?cb=20200506101230"
     },
     "Silverfish": {
         "upgradeCosts": {
@@ -243,7 +251,8 @@
                 "coins": 250000,
                 "flowers": 3
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/0/0c/Silverfish_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204846"
     },
     "Mithril Golem": {
         "upgradeCosts": {
@@ -263,7 +272,8 @@
                 "coins": 50000,
                 "flowers": 20
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/c/c9/Mithril_Golem_Pet.png/revision/latest/scale-to-width-down/160?cb=20210116185252"
     },
     "Enderman": {
         "upgradeCosts": {
@@ -289,7 +299,8 @@
                 "coins": 40000000,
                 "flowers": 12
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/8/8b/Enderman_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204849"
     },
     "Horse": {
         "upgradeCosts": {
@@ -315,7 +326,8 @@
                 "coins": 250000,
                 "flowers": 1
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/d/d6/Horse_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204838"
     },
     "Jerry": {
         "upgradeCosts": {
@@ -335,7 +347,8 @@
                 "coins": 100000,
                 "flowers": 3
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/d/dc/Jerry_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204839"
     },
     "Magma Cube": {
         "upgradeCosts": {
@@ -361,7 +374,8 @@
                 "coins": 500000,
                 "flowers": 10
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/f/f6/Magma_Cube_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204852"
     },
     "Skeleton": {
         "upgradeCosts": {
@@ -387,7 +401,8 @@
                 "coins": 250000,
                 "flowers": 3
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/a/aa/Skeleton_Pet.png/revision/latest/scale-to-width-down/160?cb=20200506101229"
     },
     "Spider": {
         "upgradeCosts": {
@@ -413,7 +428,8 @@
                 "coins": 250000,
                 "flowers": 7
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/b/b1/Spider_Pet.png/revision/latest/scale-to-width-down/160?cb=20200506101230"
     },
     "Tiger": {
         "upgradeCosts": {
@@ -439,7 +455,8 @@
                 "coins": 14000000,
                 "flowers": 12
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/2/2a/Tiger_Pet.png/revision/latest/scale-to-width-down/160?cb=20200226135247"
     },
     "Wolf": {
         "upgradeCosts": {
@@ -465,7 +482,8 @@
                 "coins": 250000,
                 "flowers": 5
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/f/f2/Wolf_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204848"
     },
     "Giraffe": {
         "upgradeCosts": {
@@ -509,7 +527,8 @@
                 "coins": 8000000,
                 "flowers": 12
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/6/6c/Giraffe_Pet.png/revision/latest/scale-to-width-down/160?=20200226135140"
     },
     "Lion": {
         "upgradeCosts": {
@@ -535,7 +554,8 @@
                 "coins": 14000000,
                 "flowers": 12
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/3/37/Lion_Pet.png/revision/latest/scale-to-width-down/160?=20200226134138"
     },
     "Monkey": {
         "upgradeCosts": {
@@ -555,7 +575,8 @@
                 "coins": 17000000,
                 "flowers": 12
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/0/02/Monkey_Pet.png/revision/latest/scale-to-width-down/160?=20200506101231"
     },
     "Ocelot": {
         "upgradeCosts": {
@@ -581,7 +602,8 @@
                 "coins": 250000,
                 "flowers": 5
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/e/e9/Ocelot_Pet.png/revision/latest/scale-to-width-down/160?=20200222204840"
     },
     "Blue Whale": {
         "upgradeCosts": {
@@ -613,7 +635,8 @@
                 "coins": 9000000,
                 "flowers": 12
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/3/33/Blue_Whale_Pet.png/revision/latest/scale-to-width-down/160?=20200226134827"
     },
     "Dolphin": {
         "upgradeCosts": {
@@ -639,7 +662,8 @@
                 "coins": 50000000,
                 "flowers": 14
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/2/23/Dolphin_Pet.png/revision/latest/scale-to-width-down/160?=20200506101234"
     },
     "Squid": {
         "upgradeCosts": {
@@ -665,7 +689,8 @@
                 "coins": 3000000,
                 "flowers": 5
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/4/4d/Squid_Pet.png/revision/latest/scale-to-width-down/160?=20200222204956"
     },
     "Guardian": {
         "upgradeCosts": {
@@ -691,7 +716,8 @@
                 "coins": 3000000,
                 "flowers": 5
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/9/95/Guardian_Pet.png/revision/latest/scale-to-width-down/160?=20200222204956"
     },
     "Sheep": {
         "upgradeCosts": {
@@ -717,7 +743,8 @@
                 "coins": 250000,
                 "flowers": 7
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/0/09/Sheep_Pet.png/revision/latest/scale-to-width-down/160?=20200222204844"
     },
     "Turtle": {
         "upgradeCosts": {
@@ -731,7 +758,8 @@
                 "coins": 15000000,
                 "flowers": 10
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/7/7e/Turtle_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204957"
     },
     "Wither Skeleton": {
         "upgradeCosts": {
@@ -745,7 +773,8 @@
                 "coins": 250000,
                 "flowers": 5
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/3/3c/Wither_Skeleton_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204847"
     },
     "Blaze": {
         "upgradeCosts": {
@@ -759,7 +788,8 @@
                 "coins": 250000,
                 "flowers": 12
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/0/0c/Blaze_Pet.png/revision/latest/scale-to-width-down/160?cb=20200516110544"
     },
     "Ender Dragon": {
         "upgradeCosts": {
@@ -773,7 +803,8 @@
                 "coins": 400000000,
                 "flowers": 20
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/0/03/Ender_Dragon_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204859"
     },
     "Ghoul": {
         "upgradeCosts": {
@@ -787,7 +818,8 @@
                 "coins": 5000000,
                 "flowers": 10
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/5/5b/Ghoul_Pet.png/revision/latest/scale-to-width-down/160?cb=20200506101235"
     },
     "Golem": {
         "upgradeCosts": {
@@ -801,7 +833,8 @@
                 "coins": 10000000,
                 "flowers": 20
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/5/50/Golem_Pet.png/revision/latest/scale-to-width-down/160?cb=20200506101234"
     },
     "Hound": {
         "upgradeCosts": {
@@ -815,7 +848,8 @@
                 "coins": 5000000,
                 "flowers": 10
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/4/4e/Hound_Pet.png/revision/latest/scale-to-width-down/160?cb=20200506101233"
     },
     "Phoenix": {
         "upgradeCosts": {
@@ -829,7 +863,8 @@
                 "coins": 100000000,
                 "flowers": 20
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/8/80/Phoenix_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204851"
     },
     "Pigman": {
         "upgradeCosts": {
@@ -843,7 +878,8 @@
                 "coins": 250000,
                 "flowers": 10
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/f/ff/Pigman_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204841"
     },
     "Spirit": {
         "upgradeCosts": {
@@ -857,7 +893,8 @@
                 "coins": 5000000,
                 "flowers": 10
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/d/d5/Spirit_Pet.png/revision/latest/scale-to-width-down/160?cb=20200912120100"
     },
     "Tarantula": {
         "upgradeCosts": {
@@ -871,7 +908,8 @@
                 "coins": 5000000,
                 "flowers": 10
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/5/55/Spider_Artifact.png/revision/latest/scale-to-width-down/160?cb=20200215143947"
     },
     "Baby Yeti": {
         "upgradeCosts": {
@@ -885,7 +923,8 @@
                 "coins": 20000000,
                 "flowers": 12
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/a/ac/Baby_Yeti_Pet.png/revision/latest/scale-to-width-down/160?=20200516111735"
     },
     "Megalodon": {
         "upgradeCosts": {
@@ -893,7 +932,8 @@
                 "coins": 10000000,
                 "flowers": 20
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/e/ea/Megalodon_Pet.png/revision/latest/scale-to-width-down/160?=20200915122759"
     },
     "Jellyfish": {
         "upgradeCosts": {
@@ -907,7 +947,8 @@
                 "coins": 15000000,
                 "flowers": 10
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/5/5c/Jellyfish_Pet.png/revision/latest/scale-to-width-down/160?=20200506101232"
     },
     "Parrot": {
         "upgradeCosts": {
@@ -921,7 +962,8 @@
                 "coins": 15000000,
                 "flowers": 10
             }
-        }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/4/47/Parrot_Pet.png/revision/latest/scale-to-width-down/160?=20200222204854"
     },
     "Flying Fish": {
         "upgradeCosts": {
@@ -939,6 +981,39 @@
                 "coins": 1000000,
                 "flowers": 10
             }
+        },
+        "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/e/ec/Flying_Fish_Pet.png/revision/latest/scale-to-width-down/160?=20200222204853"
+    },
+    "Missing Pets" : {
+        "Skeleton Horse" : {
+            "upgradeCosts": {
+                "NA" : null
+            },
+            "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/5/57/Skeleton_Horse_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204856"
+        },
+        "Snowman" : {
+            "upgradeCosts": {
+                "NA" : null
+            },
+            "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/a/ad/Snowman_Pet.png/revision/latest/scale-to-width-down/160?cb=20200222204857"
+        },
+        "Griffin" : {
+            "upgradeCosts": {
+                "NA" : null
+            },
+            "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/6/69/Griffin_Pet.png/revision/latest/scale-to-width-down/160?cb=20200909172802"
+        },
+        "Black Cat" : {
+            "upgradeCosts" : {
+                "NA" : null
+            },
+            "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/6/6d/Black_Cat_Pet.png/revision/latest/scale-to-width-down/160?cb=20200516100842"
+        },
+        "Zombie" : {
+            "upgradeCosts" : {
+                "NA" : null
+            },
+            "image" : "https://static.wikia.nocookie.net/hypixel-skyblock/images/4/4e/Zombie_Pet.png/revision/latest/scale-to-width-down/160?=20200506101232"
         }
     }
 }
